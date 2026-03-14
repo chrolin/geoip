@@ -73,7 +73,7 @@
       "args": {
         "name": "telegram",
         "uri": "https://core.telegram.org/resources/cidr.txt"
-      }
+      },
     {
   "type": "text",
   "action": "add",
