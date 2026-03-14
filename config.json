@@ -82,7 +82,6 @@
     "uri": "https://redirect.semitelecom.net/geoip/telegram"
   }
 },  
-    },
     {
       "type": "json",
       "action": "add",
